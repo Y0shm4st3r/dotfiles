@@ -15,3 +15,4 @@
 - **SDDM Theme Winter:** [darkkal44](https://store.kde.org/p/2355146)
 - **Rofi Ribbon Theme:** [adi1090x](https://github.com/dctxmei/rofi-themes)
 - **Catppuccin:** [catppuccin](https://github.com/catppuccin)
+- **Wallpaper:** [wallhaven - k8385q](https://wallhaven.cc/w/k8385q)
