@@ -96,7 +96,9 @@ sudo cp sddm/bg.mp4 /usr/share/sddm/themes/winter/
 | Super + Shift + W | Mover ventana a otro monitor |
 | Print | Screenshot |
 | Super + Print | Screenshot área |
-
+| Super + D | Toggle workspace especial |
+| Super + S | Mover ventana a workspace especial |
+| Super + Shift + S | Traer ventana de workspace especial |
 ---
 
 ## 🎨 Créditos
